@@ -13,3 +13,8 @@ Then you can enter the product names.
 ## Guidlines to messaging interface
 
 Once the initial configuration is complete and the application has been started, you will get the message interface and types on the console. You have to make sure that incoming messages are in the same format as the format details.
+
+
+## Main Class for the application
+
+The main class for the application is MessagingApplication.java.
